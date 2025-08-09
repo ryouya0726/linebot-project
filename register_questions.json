@@ -1,0 +1,6 @@
+[
+  { "field": "office", "question": "事業所名を教えてください。" },
+  { "field": "address", "question": "住所を教えてください。" },
+  { "field": "role", "question": "あなたの役職は何ですか？（例：ケアマネ）" },
+  { "field": "name", "question": "あなたのお名前を教えてください。" }
+]
